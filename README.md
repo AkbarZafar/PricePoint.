@@ -1,4 +1,4 @@
-# PricePoint-StarterHacks2020
+# PricePoint
 
 Languages Used: HTML, CSS, JavaScript
 <br>
